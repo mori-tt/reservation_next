@@ -1,5 +1,5 @@
 "use client"; // cosmosのために追加
-import { Option, Select } from "$/_ui/atoms/select";
+// import { Option, Select } from "$/_ui/atoms/select";
 import clsx from "clsx";
 import { useState } from "react";
 
