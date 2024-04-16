@@ -4,7 +4,6 @@
 /node_modules
 /.pnp
 .pnp.js
-.yarn/install-state.gz
 
 # testing
 /coverage
@@ -37,3 +36,6 @@ next-env.d.ts
 
 # cosmos
 cosmos.imports.ts
+
+# sqlite
+sqlite.db
