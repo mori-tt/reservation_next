@@ -18,7 +18,7 @@ export default async function Home() {
       </p>
       {user ? (
         <>
-          <Link.Basic color="primary" href="/fix/reserve" shallow>
+          <Link.Basic color="primary" href="fix/reserve" shallow>
             予約を開始する
           </Link.Basic>
           <LogoutButton>ログアウトする</LogoutButton>
